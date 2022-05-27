@@ -1,0 +1,15 @@
+/Users/cassiofelipe/Projects/DesignPatterns/PatternSingleton/bin/Debug/net5.0/PatternSingleton.deps.json
+/Users/cassiofelipe/Projects/DesignPatterns/PatternSingleton/bin/Debug/net5.0/PatternSingleton.runtimeconfig.json
+/Users/cassiofelipe/Projects/DesignPatterns/PatternSingleton/bin/Debug/net5.0/PatternSingleton.runtimeconfig.dev.json
+/Users/cassiofelipe/Projects/DesignPatterns/PatternSingleton/bin/Debug/net5.0/PatternSingleton.dll
+/Users/cassiofelipe/Projects/DesignPatterns/PatternSingleton/bin/Debug/net5.0/ref/PatternSingleton.dll
+/Users/cassiofelipe/Projects/DesignPatterns/PatternSingleton/bin/Debug/net5.0/PatternSingleton.pdb
+/Users/cassiofelipe/Projects/DesignPatterns/PatternSingleton/obj/Debug/net5.0/PatternSingleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cassiofelipe/Projects/DesignPatterns/PatternSingleton/obj/Debug/net5.0/PatternSingleton.AssemblyInfoInputs.cache
+/Users/cassiofelipe/Projects/DesignPatterns/PatternSingleton/obj/Debug/net5.0/PatternSingleton.AssemblyInfo.cs
+/Users/cassiofelipe/Projects/DesignPatterns/PatternSingleton/obj/Debug/net5.0/PatternSingleton.csproj.CoreCompileInputs.cache
+/Users/cassiofelipe/Projects/DesignPatterns/PatternSingleton/obj/Debug/net5.0/PatternSingleton.dll
+/Users/cassiofelipe/Projects/DesignPatterns/PatternSingleton/obj/Debug/net5.0/ref/PatternSingleton.dll
+/Users/cassiofelipe/Projects/DesignPatterns/PatternSingleton/obj/Debug/net5.0/PatternSingleton.pdb
+/Users/cassiofelipe/Projects/DesignPatterns/PatternSingleton/obj/Debug/net5.0/PatternSingleton.genruntimeconfig.cache
+/Users/cassiofelipe/Projects/DesignPatterns/PatternSingleton/obj/Debug/net5.0/PatternSingleton.csproj.AssemblyReference.cache
