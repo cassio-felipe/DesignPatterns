@@ -14,6 +14,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/PatternBuilder/Pattern/SimpleFluent/EmailBuilder.cs" />
+      <option value="$PROJECT_DIR$/PatternBuilder/Pattern/SimpleFluent/Email.cs" />
+      <option value="$PROJECT_DIR$/PatternBuilder/Pattern/Default/Product/Pizza.cs" />
+      <option value="$PROJECT_DIR$/PatternBuilder/Pattern/Default/Product/TipoBorda.cs" />
+      <option value="$PROJECT_DIR$/PatternBuilder/Pattern/Default/Product/Tamanho.cs" />
+      <option value="$PROJECT_DIR$/PatternBuilder/Pattern/Default/Product/TipoMassa.cs" />
+      <option value="$PROJECT_DIR$/PatternBuilder/Program.cs" />
+      <option value="$PROJECT_DIR$/PatternBuilder/Pattern/Default/ConcreteBuilder/PizzaMussarela.cs" />
+      <option value="$PROJECT_DIR$/PatternBuilder/Pattern/Default/DIrector/Pizzaria.cs" />
+      <option value="$PROJECT_DIR$/PatternBuilder/Pattern/Default/Builder/PizzaBuilder.cs" />
+      <option value="$PROJECT_DIR$/PatternBuilder/Pattern/Default/ConcreteBuilder/PizzaCalabresa.cs" />
+      <option value="$PROJECT_DIR$/gitignore" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+    </changedPaths>
+  </component>
   <component name="ProjectId" id="29lJ76ZUNY7OyaJKZJzPgyA17Kt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -27,7 +44,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.PatternSingleton">
+  <component name="RunManager" selected=".NET Project.PatternBuilder">
     <configuration name="PatternBuilder" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -73,15 +90,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653681577607</updated>
-      <workItem from="1653681583836" duration="381000" />
+      <workItem from="1653681583836" duration="476000" />
+      <workItem from="1653955778827" duration="3549000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
