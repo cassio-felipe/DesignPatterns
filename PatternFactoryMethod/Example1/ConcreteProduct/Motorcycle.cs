@@ -1,7 +1,7 @@
 using System;
-using PatternFactoryMethod.Product;
+using PatternFactoryMethod.Example1.Product;
 
-namespace PatternFactoryMethod.ConcreteProduct
+namespace PatternFactoryMethod.Example1.ConcreteProduct
 {
     public class Motorcycle : IVehicle
     {

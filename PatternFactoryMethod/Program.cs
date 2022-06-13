@@ -1,6 +1,6 @@
 ﻿using System;
-using PatternFactoryMethod.ConcreteCreator;
-using PatternFactoryMethod.Creator;
+using PatternFactoryMethod.Example1.ConcreteCreator;
+using PatternFactoryMethod.Example1.Creator;
 
 namespace PatternFactoryMethod
 {

@@ -1,8 +1,8 @@
 ﻿using System;
 using PatternBuilder.Pattern;
-using PatternBuilder.Pattern.Default.ConcreteBuilder;
-using PatternBuilder.Pattern.Default.DIrector;
-using PatternBuilder.Pattern.SimpleFluent;
+using PatternBuilder.Pattern.Example1.ConcreteBuilder;
+using PatternBuilder.Pattern.Example1.DIrector;
+using PatternBuilder.Pattern.Example2;
 
 namespace PatternBuilder
 {

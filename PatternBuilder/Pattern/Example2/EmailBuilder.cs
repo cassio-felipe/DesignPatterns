@@ -1,4 +1,4 @@
-namespace PatternBuilder.Pattern.SimpleFluent
+namespace PatternBuilder.Pattern.Example2
 {
     public class EmailBuilder
     {

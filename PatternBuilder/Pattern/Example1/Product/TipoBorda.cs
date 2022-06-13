@@ -1,4 +1,4 @@
-namespace PatternBuilder.Pattern.Default.Product
+namespace PatternBuilder.Pattern.Example1.Product
 {
     public enum TipoBorda
     {

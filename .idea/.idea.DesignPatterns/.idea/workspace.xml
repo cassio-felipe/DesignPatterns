@@ -7,9 +7,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e8e0a60-7bd8-4d95-9ed9-25d0f024f51c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Outro/Outro.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DesignPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DesignPatterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternBuilder/Pattern/Default/Builder/PizzaBuilder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternBuilder/Pattern/Example1/Builder/PizzaBuilder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternBuilder/Pattern/Default/ConcreteBuilder/PizzaCalabresa.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternBuilder/Pattern/Example1/ConcreteBuilder/PizzaCalabresa.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternBuilder/Pattern/Default/ConcreteBuilder/PizzaMussarela.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternBuilder/Pattern/Example1/ConcreteBuilder/PizzaMussarela.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternBuilder/Pattern/Default/DIrector/Pizzaria.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternBuilder/Pattern/Example1/DIrector/Pizzaria.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternBuilder/Pattern/Default/Product/Pizza.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternBuilder/Pattern/Example1/Product/Pizza.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternBuilder/Pattern/Default/Product/Tamanho.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternBuilder/Pattern/Example1/Product/Tamanho.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternBuilder/Pattern/Default/Product/TipoBorda.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternBuilder/Pattern/Example1/Product/TipoBorda.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternBuilder/Pattern/Default/Product/TipoMassa.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternBuilder/Pattern/Example1/Product/TipoMassa.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternBuilder/Pattern/SimpleFluent/Email.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternBuilder/Pattern/Example2/Email.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternBuilder/Pattern/SimpleFluent/EmailBuilder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternBuilder/Pattern/Example2/EmailBuilder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternBuilder/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternBuilder/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternFactoryMethod/ConcreteCreator/CarFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternFactoryMethod/Example1/ConcreteCreator/CarFactory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternFactoryMethod/ConcreteCreator/MotorcycleFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternFactoryMethod/Example1/ConcreteCreator/MotorcycleFactory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternFactoryMethod/ConcreteProduct/Car.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternFactoryMethod/Example1/ConcreteProduct/Car.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternFactoryMethod/ConcreteProduct/Motorcycle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternFactoryMethod/Example1/ConcreteProduct/Motorcycle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternFactoryMethod/Creator/VehicleFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternFactoryMethod/Example1/Creator/VehicleFactory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternFactoryMethod/PatternFactoryMethod.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/PatternFactoryMethod/PatternFactoryMethod.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternFactoryMethod/Product/IVehicle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternFactoryMethod/Example1/Product/IVehicle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternFactoryMethod/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PatternFactoryMethod/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,13 +37,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Outro/Class1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PatternFactoryMethod/ConcreteCreator/CarFactory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PatternFactoryMethod/ConcreteCreator/MotorcycleFactory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PatternFactoryMethod/ConcreteProduct/Car.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PatternFactoryMethod/ConcreteProduct/Motorcycle.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PatternFactoryMethod/Creator/VehicleFactory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PatternFactoryMethod/Product/IVehicle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PatternFactoryMethod/Example1/ConcreteCreator/CarFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PatternFactoryMethod/Example1/ConcreteCreator/MotorcycleFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PatternFactoryMethod/Example1/ConcreteProduct/Car.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PatternFactoryMethod/Example1/ConcreteProduct/Motorcycle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PatternFactoryMethod/Example1/Creator/VehicleFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PatternFactoryMethod/Example1/Product/IVehicle.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -130,7 +146,8 @@
       <workItem from="1653955778827" duration="3917000" />
       <workItem from="1653961067272" duration="166000" />
       <workItem from="1654041323188" duration="1410000" />
-      <workItem from="1654563887604" duration="2340000" />
+      <workItem from="1654563887604" duration="2526000" />
+      <workItem from="1654953254592" duration="828000" />
     </task>
     <servers />
   </component>

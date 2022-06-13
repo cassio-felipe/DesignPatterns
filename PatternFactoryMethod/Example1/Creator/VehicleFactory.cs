@@ -1,6 +1,6 @@
-using PatternFactoryMethod.Product;
+using PatternFactoryMethod.Example1.Product;
 
-namespace PatternFactoryMethod.Creator
+namespace PatternFactoryMethod.Example1.Creator
 {
     public abstract class VehicleFactory
     {

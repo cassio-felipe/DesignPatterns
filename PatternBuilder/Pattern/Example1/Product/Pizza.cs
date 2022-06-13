@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace PatternBuilder.Pattern.Default.Product
+namespace PatternBuilder.Pattern.Example1.Product
 {
     public class Pizza
     {

@@ -1,6 +1,6 @@
-using PatternBuilder.Pattern.Default.Product;
+using PatternBuilder.Pattern.Example1.Product;
 
-namespace PatternBuilder.Pattern.Default.Builder
+namespace PatternBuilder.Pattern.Example1.Builder
 {
     public abstract class PizzaBuilder
     {

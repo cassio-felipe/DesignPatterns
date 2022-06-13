@@ -1,4 +1,4 @@
-namespace PatternFactoryMethod.Product
+namespace PatternFactoryMethod.Example1.Product
 {
     public interface IVehicle
     {

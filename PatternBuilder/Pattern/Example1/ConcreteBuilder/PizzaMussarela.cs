@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
-using PatternBuilder.Pattern.Default.Builder;
-using PatternBuilder.Pattern.Default.Product;
+using PatternBuilder.Pattern.Example1.Builder;
+using PatternBuilder.Pattern.Example1.Product;
 
-namespace PatternBuilder.Pattern.Default.ConcreteBuilder
+namespace PatternBuilder.Pattern.Example1.ConcreteBuilder
 {
     public class PizzaMussarela : PizzaBuilder
     {
